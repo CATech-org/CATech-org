@@ -16,17 +16,9 @@ See [PURPOSE.md](PURPOSE.md) and [ROADMAP.md](ROADMAP.md) for full project detai
 | SGLang | Python server | Structured generation, fast serving |
 | Unsloth | Desktop app / Python | Local UI for inference and fine-tuning, GGUF support |
 
-### Model Selection
-
-MoE models preferred over dense models, only active parameters need fast access per token, making CPU+GPU splits more efficient.
-
----
-
 ## References
 
 External links and additional references will be added as documentation matures.
-
----
 
 ## Notes
 
